@@ -14,5 +14,5 @@
 .externalNativeBuild
 .cxx
 local.properties
-app/src/main/java/ef/simulator/MainActivityJava.java
 /.idea
+/app/src/main/java/ef/simulator/domain/LocationJava.java
